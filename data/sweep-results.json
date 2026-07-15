@@ -1,0 +1,812 @@
+{
+ "results": [
+  {
+   "corridor": "north",
+   "scenario": "all-d2-110",
+   "scale": 1.23,
+   "benefits": {
+    "timeISKPerYear": 17197658851,
+    "safetyISKPerYear": 393136737,
+    "totalISKPerYear": 17590795587,
+    "npv30ISK": 432751122799,
+    "vehHoursPerYear": 2025618,
+    "accidentsAvoidedPerYear": 40.53
+   },
+   "km": {
+    "rebuildKm": 57.29,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 307048273,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3357,
+     "upgP50FwdS": 2603,
+     "baseP50RevS": 3472,
+     "upgP50RevS": 2604
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 7313,
+     "upgP50FwdS": 2752,
+     "baseP50RevS": 3303,
+     "upgP50RevS": 2588
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3164,
+     "upgP50FwdS": 2593,
+     "baseP50RevS": 6329,
+     "upgP50RevS": 2652
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "all-d2-110",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 10853316905,
+    "safetyISKPerYear": 320401251,
+    "totalISKPerYear": 11173718157,
+    "npv30ISK": 274884615322,
+    "vehHoursPerYear": 1313917,
+    "accidentsAvoidedPerYear": 33.03
+   },
+   "km": {
+    "rebuildKm": 57.29,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 195037845,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 2600,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 2592
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 2693,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 2587
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 2584,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 2631
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "all-d2-90",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 9165579145,
+    "safetyISKPerYear": 320401251,
+    "totalISKPerYear": 9485980396,
+    "npv30ISK": 233364582455,
+    "vehHoursPerYear": 1038774,
+    "accidentsAvoidedPerYear": 33.03
+   },
+   "km": {
+    "rebuildKm": 57.29,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 165578293,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 2886,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 2877
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 2934,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 2869
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 2867,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 2917
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "hvalfj-borgarnes-d2",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 7957787448,
+    "safetyISKPerYear": 298268639,
+    "totalISKPerYear": 8256056087,
+    "npv30ISK": 203107217295,
+    "vehHoursPerYear": 871587,
+    "accidentsAvoidedPerYear": 30.75
+   },
+   "km": {
+    "rebuildKm": 38.980000000000004,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 211802362,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 2973,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 3073
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 3183,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 3033
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 2942,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 3276
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "all-d2-110",
+   "scale": 1.23,
+   "benefits": {
+    "timeISKPerYear": 5148297745,
+    "safetyISKPerYear": 50070868,
+    "totalISKPerYear": 5198368613,
+    "npv30ISK": 127885054594,
+    "vehHoursPerYear": 691539,
+    "accidentsAvoidedPerYear": 5.16
+   },
+   "km": {
+    "rebuildKm": 36.910000000000004,
+    "speedOnlyKm": 2.9001999999999972
+   },
+   "iskPerRebuildKmPerYear": 140839030,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2241,
+     "upgP50FwdS": 1880,
+     "baseP50RevS": 2317,
+     "upgP50RevS": 1938
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5336,
+     "upgP50FwdS": 4616,
+     "baseP50RevS": 2156,
+     "upgP50RevS": 1789
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2093,
+     "upgP50FwdS": 1809,
+     "baseP50RevS": 4783,
+     "upgP50RevS": 4333
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "all-d2-110",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 4012955122,
+    "safetyISKPerYear": 41457718,
+    "totalISKPerYear": 4054412840,
+    "npv30ISK": 99742601180,
+    "vehHoursPerYear": 540755,
+    "accidentsAvoidedPerYear": 4.27
+   },
+   "km": {
+    "rebuildKm": 36.910000000000004,
+    "speedOnlyKm": 2.9001999999999972
+   },
+   "iskPerRebuildKmPerYear": 109845918,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2153,
+     "upgP50FwdS": 1840,
+     "baseP50RevS": 2224,
+     "upgP50RevS": 1815
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 3567,
+     "upgP50FwdS": 2807,
+     "baseP50RevS": 2126,
+     "upgP50RevS": 1783
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2065,
+     "upgP50FwdS": 1796,
+     "baseP50RevS": 4028,
+     "upgP50RevS": 3670
+    }
+   }
+  },
+  {
+   "corridor": "kef",
+   "scenario": "both",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 3054337012,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 3054337012,
+    "npv30ISK": 75139737978,
+    "vehHoursPerYear": 493538,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 0,
+    "speedOnlyKm": 33.9998
+   },
+   "iskPerRebuildKmPerYear": null,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 1745,
+     "upgP50FwdS": 1509,
+     "baseP50RevS": 1747,
+     "upgP50RevS": 1506
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 1761,
+     "upgP50FwdS": 1512,
+     "baseP50RevS": 1749,
+     "upgP50RevS": 1507
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 1768,
+     "upgP50FwdS": 1511,
+     "baseP50RevS": 1771,
+     "upgP50RevS": 1510
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "all-d2-90",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 2466425850,
+    "safetyISKPerYear": 41457718,
+    "totalISKPerYear": 2507883569,
+    "npv30ISK": 61696438047,
+    "vehHoursPerYear": 284104,
+    "accidentsAvoidedPerYear": 4.27
+   },
+   "km": {
+    "rebuildKm": 36.910000000000004,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 67945911,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2153,
+     "upgP50FwdS": 2032,
+     "baseP50RevS": 2224,
+     "upgP50RevS": 2027
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 3567,
+     "upgP50FwdS": 2967,
+     "baseP50RevS": 2126,
+     "upgP50RevS": 2001
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2065,
+     "upgP50FwdS": 2014,
+     "baseP50RevS": 4028,
+     "upgP50RevS": 3819
+    }
+   }
+  },
+  {
+   "corridor": "kef",
+   "scenario": "110",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 2192428124,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 2192428124,
+    "npv30ISK": 53935919356,
+    "vehHoursPerYear": 370043,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 0,
+    "speedOnlyKm": 33.9998
+   },
+   "iskPerRebuildKmPerYear": null,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 1745,
+     "upgP50FwdS": 1558,
+     "baseP50RevS": 1747,
+     "upgP50RevS": 1564
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 1761,
+     "upgP50FwdS": 1574,
+     "baseP50RevS": 1749,
+     "upgP50RevS": 1572
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 1768,
+     "upgP50FwdS": 1582,
+     "baseP50RevS": 1771,
+     "upgP50RevS": 1604
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "110-existing",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 1646482625,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 1646482625,
+    "npv30ISK": 40505115359,
+    "vehHoursPerYear": 260041,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 0,
+    "speedOnlyKm": 35.643600000000006
+   },
+   "iskPerRebuildKmPerYear": null,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2153,
+     "upgP50FwdS": 1959,
+     "baseP50RevS": 2224,
+     "upgP50RevS": 2015
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 3567,
+     "upgP50FwdS": 3342,
+     "baseP50RevS": 2126,
+     "upgP50RevS": 1929
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2065,
+     "upgP50FwdS": 1868,
+     "baseP50RevS": 4028,
+     "upgP50RevS": 3958
+    }
+   }
+  },
+  {
+   "corridor": "kef",
+   "scenario": "junctions",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 818987807,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 818987807,
+    "npv30ISK": 20147917192,
+    "vehHoursPerYear": 118680,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 0,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": null,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 1745,
+     "upgP50FwdS": 1694,
+     "baseP50RevS": 1747,
+     "upgP50RevS": 1690
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 1761,
+     "upgP50FwdS": 1703,
+     "baseP50RevS": 1749,
+     "upgP50RevS": 1689
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 1768,
+     "upgP50FwdS": 1697,
+     "baseP50RevS": 1771,
+     "upgP50RevS": 1694
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "tunnel2",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 710702196,
+    "safetyISKPerYear": 22132612,
+    "totalISKPerYear": 732834809,
+    "npv30ISK": 18028467484,
+    "vehHoursPerYear": 80069,
+    "accidentsAvoidedPerYear": 2.28
+   },
+   "km": {
+    "rebuildKm": 5.76,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 127228265,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 3205,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 3219
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 5674,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 3140
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 3104,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 5838
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "hellisheidi-d2",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 556181469,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 556181469,
+    "npv30ISK": 13682619082,
+    "vehHoursPerYear": 66729,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 25.657200000000003,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 21677403,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2153,
+     "upgP50FwdS": 2123,
+     "baseP50RevS": 2224,
+     "upgP50RevS": 2145
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 3567,
+     "upgP50FwdS": 3561,
+     "baseP50RevS": 2126,
+     "upgP50RevS": 2062
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2065,
+     "upgP50FwdS": 2039,
+     "baseP50RevS": 4028,
+     "upgP50RevS": 4080
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "110-existing",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 451894083,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 451894083,
+    "npv30ISK": 11117045310,
+    "vehHoursPerYear": 69663,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 0,
+    "speedOnlyKm": 12.55
+   },
+   "iskPerRebuildKmPerYear": null,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 3164,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 3281
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 5740,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 3197
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 3045,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 5823
+    }
+   }
+  },
+  {
+   "corridor": "north",
+   "scenario": "kjalarnes-d2",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 444646066,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 444646066,
+    "npv30ISK": 10938736873,
+    "vehHoursPerYear": 50077,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 12.55,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 35429965,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 3232,
+     "upgP50FwdS": 3200,
+     "baseP50RevS": 3350,
+     "upgP50RevS": 3303
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 5902,
+     "upgP50FwdS": 5608,
+     "baseP50RevS": 3270,
+     "upgP50RevS": 3226
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 3119,
+     "upgP50FwdS": 3102,
+     "baseP50RevS": 6345,
+     "upgP50RevS": 6063
+    }
+   }
+  },
+  {
+   "corridor": "south",
+   "scenario": "olfus-4th",
+   "scale": 1,
+   "benefits": {
+    "timeISKPerYear": 225266214,
+    "safetyISKPerYear": 0,
+    "totalISKPerYear": 225266214,
+    "npv30ISK": 5541773618,
+    "vehHoursPerYear": 24837,
+    "accidentsAvoidedPerYear": 0
+   },
+   "km": {
+    "rebuildKm": 7.086200000000004,
+    "speedOnlyKm": 0
+   },
+   "iskPerRebuildKmPerYear": 31789424,
+   "perPreset": {
+    "typicalWeekday": {
+     "baseP50FwdS": 2153,
+     "upgP50FwdS": 2153,
+     "baseP50RevS": 2224,
+     "upgP50RevS": 2191
+    },
+    "fridaySummer": {
+     "baseP50FwdS": 3567,
+     "upgP50FwdS": 3520,
+     "baseP50RevS": 2126,
+     "upgP50RevS": 2090
+    },
+    "sundayReturn": {
+     "baseP50FwdS": 2065,
+     "upgP50FwdS": 2064,
+     "baseP50RevS": 4028,
+     "upgP50RevS": 4140
+    }
+   }
+  }
+ ],
+ "charts": {
+  "northFriday": {
+   "hoursBaseline": [
+    2967,
+    2908,
+    3017,
+    2910,
+    2945,
+    2926,
+    3035,
+    3061,
+    3102,
+    3096,
+    3093,
+    3073,
+    3137,
+    3247,
+    3577,
+    4999,
+    6917,
+    8282,
+    9061,
+    8996,
+    8143,
+    5835,
+    3413,
+    2957
+   ],
+   "hoursUpgrade": [
+    2629,
+    2521,
+    2674,
+    2557,
+    2568,
+    2515,
+    2622,
+    2608,
+    2574,
+    2578,
+    2610,
+    2581,
+    2569,
+    2595,
+    2631,
+    2697,
+    2772,
+    2811,
+    2858,
+    2638,
+    2599,
+    2614,
+    2613,
+    2532
+   ],
+   "distBaseline": [
+    0,
+    0,
+    42,
+    568,
+    1389,
+    709,
+    304,
+    197,
+    158,
+    173,
+    165,
+    230,
+    203,
+    190,
+    179,
+    204,
+    219,
+    239,
+    293,
+    318,
+    337,
+    386,
+    405,
+    362,
+    330,
+    260,
+    198,
+    117,
+    93,
+    69,
+    47,
+    37,
+    18,
+    17,
+    10,
+    10,
+    14,
+    8,
+    6,
+    4,
+    6,
+    20
+   ],
+   "distUpgrade": [
+    9,
+    895,
+    3452,
+    2600,
+    1338,
+    250,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "distMinM": 30,
+   "distW": 5
+  },
+  "southFriday": {
+   "hoursBaseline": [
+    1986,
+    1996,
+    1966,
+    2012,
+    2016,
+    2051,
+    2061,
+    2065,
+    2058,
+    2050,
+    2068,
+    2044,
+    2077,
+    2159,
+    2654,
+    3160,
+    4157,
+    5502,
+    6233,
+    6024,
+    5133,
+    3415,
+    2132,
+    1988
+   ],
+   "hoursUpgrade": [
+    1763,
+    1763,
+    1745,
+    1768,
+    1767,
+    1805,
+    1804,
+    1801,
+    1790,
+    1812,
+    1793,
+    1789,
+    1815,
+    1823,
+    2053,
+    2444,
+    3334,
+    4449,
+    5229,
+    4982,
+    4159,
+    2663,
+    1772,
+    1733
+   ]
+  }
+ }
+}
